@@ -26,7 +26,7 @@ Analysts, sports historians, and enthusiasts can slice the data by year, season,
 
 > Built in Power BI Desktop · Source: `Paralympics_Dataset_cleaned.xlsx` · 2,209 records × 18 fields
 
-![Paralympics Dashboard](./screenshot/dashboard_preview.png)
+![Paralympics Dashboard](screenshorts/dashboard_preview.png)
 
 ---
 
